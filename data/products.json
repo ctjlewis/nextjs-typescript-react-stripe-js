@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "name": "Bananas",
     "description": "Yummy yellow fruit",
     "sku": "sku_GBJ2Ep8246qeeT",
@@ -9,6 +10,7 @@
     "currency": "USD"
   },
   {
+    "id": "2",
     "name": "Tangerines",
     "sku": "sku_GBJ2WWfMaGNC2Z",
     "price": 100,
